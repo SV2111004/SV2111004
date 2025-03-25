@@ -16,23 +16,19 @@ I love building cool projects, solving DSA problems, and exploring new technolog
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shubhra118&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhra118&layout=compact&theme=tokyonight)
 
----
 
 ### 🌟 Fun Facts About Me
 - 🚀 I love solving coding challenges and participating in hackathons
-- 🎵 Can’t code without music 🎶
+- 💡 Passionate about web development and creating interactive UIs
+- 🎯 Participated in multiple hackathons and coding contests
+- 🔍 Always exploring new tech stacks and optimizing code efficiency
 - ✈️ Love traveling and exploring new places
-- 😄 Introvert, but will talk for hours about tech & travel!
-
+- 👉 Let's connect and collaborate on exciting projects!
 ---
 
 ### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter)](https://twitter.com/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/shubhra-varshney-814015293/])
 
 ---
 
