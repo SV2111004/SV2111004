@@ -6,13 +6,18 @@ I love building cool projects, solving DSA problems, and exploring new technolog
 
 ---
 
-### 🚀 Tech Stack
-![C++](https://img.shields.io/badge/C++-blue.svg?style=for-the-badge&logo=c%2B%2B)
-![React](https://img.shields.io/badge/React-black.svg?style=for-the-badge&logo=react)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3)
+## 🚀 Tech Stack & Tools
+
+<div align="center">
+  <img src="https://img.shields.io/badge/C++-blue.svg?style=for-the-badge&logo=c%2B%2B" />
+  <img src="https://img.shields.io/badge/React-black.svg?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/Web3-3C3C3D.svg?style=for-the-badge&logo=ethereum" />
+  <img src="https://img.shields.io/badge/Blockchain-black.svg?style=for-the-badge&logo=bitcoin" />
+</div>
 
 ---
 
@@ -27,8 +32,16 @@ I love building cool projects, solving DSA problems, and exploring new technolog
 - 👉 Let's connect and collaborate on exciting projects!
 ---
 
-### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/shubhra-varshney-814015293/])
+## 📫 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/shubhra-varshney-814015293/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://leetcode.com/u/shubhra21004/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode" />
+  </a>
+</div>
 
 ---
 
