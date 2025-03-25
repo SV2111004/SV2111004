@@ -1,19 +1,12 @@
 ## Hey there! 👋 I'm Shubhra
-<div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250px">
-</div>
-
-
-
-
-
-
 
 💻 **BTech CSE | 🚀 Developer | 🌍 Travel Enthusiast**  
 
 I love building cool projects, solving DSA problems, and exploring new technologies! When I'm not coding, you'll probably find me dancing or planning my next trip. 😄
 
----
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250px">
+</div>
 
 ## 🚀 Tech Stack & Tools
 
