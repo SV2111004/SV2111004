@@ -2,11 +2,10 @@
 <h3 align="center">Aspiring Software Developer | MERN Enthusiast | Building for Impact</h3>
 
 <p align="center">
-  I love building cool projects, solving DSA problems, and exploring new technologies!  
+  I'm passionate about building meaningful projects, solving DSA problems, and exploring new technologies.  
   <br />
-  When I'm not coding, you'll probably find me dancing or planning my next trip. 😄
+  Outside of coding, you'll often find me dancing or exploring new places around me.! ✨
 </p>
-
 <div align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250px" />
 </div>
