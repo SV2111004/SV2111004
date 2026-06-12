@@ -2,7 +2,20 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=210&section=header&text=Shubhra%20Varshney&fontSize=60&fontAlignY=38&desc=Powered%20by%20Algorithms%20and%20Curiosity&descAlignY=62&animation=twinkling"/>
 <br>
-<img src="https://komarev.com/ghpvc/?username=SV2111004&style=for-the-badge&color=A960EE"/>
+<a href="https://www.linkedin.com/in/shubhra-varshney-814015293">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/SV2111004/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="mailto:gp.shubhra78@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+
+
 </div>
 <BR>
 
@@ -90,24 +103,9 @@ public:
 
 </div>
 
----
-
-## 📫 Connect With Me
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/shubhra-varshney-814015293">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:your-gp.shubhra78@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/SV2111004/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
+<img src="https://komarev.com/ghpvc/?username=SV2111004&style=for-the-badge&color=A960EE"/>
 </div>
 
 ---
