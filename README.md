@@ -1,61 +1,127 @@
-<h1 align="center">Hi there 👋, I'm <span style="color:#8A2BE2">Shubhra Varshney</span></h1>
-<h3 align="center">Aspiring Software Developer | MERN Enthusiast | Building for Impact</h3>
-
-<p align="center">
-  I'm passionate about building meaningful projects, solving DSA problems, and exploring new technologies.  
-  <br />
-  Outside of coding, you'll often find me dancing or exploring new places around me.! ✨
-</p>
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250px" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=210&section=header&text=Shubhra%20Varshney&fontSize=60&fontAlignY=38&desc=Powered%20by%20Algorithms%20and%20Curiosity&descAlignY=62&animation=twinkling"/>
+<br>
+<img src="https://komarev.com/ghpvc/?username=SV2111004&style=for-the-badge&color=A960EE"/>
 </div>
+<BR>
 
----
 
-## 🌟 About Me
- 
-- 🧠 I actively participate in coding contests, hackathons, and tech events  
-- 🔍 I love exploring new tech stacks and improving code efficiency  
-- 💡 I'm passionate about web development and building interactive UIs  
-- ✨ I believe in writing clean code that drives real-world impact  
-- 🤝 Always open to connect, learn, and build exciting things together  
+## 👩‍💻 About Me
+<img align="right" width="310" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+
+```cpp
+class Shubhra {
+public:
+   string education = "B.Tech CSE @ JIIT Noida (2027)";
+   string role = "Software Engineer in the making";
+
+   vector<string> currentlyDoing = {
+        "Solving DSA & participating in coding contests",
+        "Building with MERN",
+        "Exploring AI, LLMs & Intelligent Systems"
+    };
+
+    void dailyRoutine() {
+        solveDSA();
+        buildProjects();
+        learnSomethingNew();
+    }
+};
+```
+
+
+
+<br clear="right"/>
 
 ---
 
 ## 🚀 Tech Stack & Tools
 
 <div align="center">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React.js-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/MySQL-00758F.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-FF6F00.svg?style=for-the-badge&logo=api&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+
+<img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+
+
+<img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-FF6F00.svg?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JWT-000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+
+
+
+<img src="https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-00758F.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Gemini_API-8A2BE2.svg?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" />
+
+
+
+<img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux_Shell-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Bash-121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+
 </div>
 
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SV2111004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SV2111004&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
 ## 📫 Connect With Me
 
-<div>
-  <a href="https://www.linkedin.com/in/shubhra-varshney-814015293/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin" />
-  </a>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/shubhra-varshney-814015293">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:your-gp.shubhra78@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/SV2111004/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
-<p align="center">
-  <i>“Building better every day — one line of code at a time.”</i>
-</p>
+<div align="center">
 
+### 💭 "From algorithms to applications — building software that matters."
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+</div>
