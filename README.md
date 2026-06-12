@@ -14,7 +14,6 @@
 class Shubhra {
 public:
    string education = "B.Tech CSE @ JIIT Noida (2027)";
-   string role = "Software Engineer in the making";
 
    vector<string> currentlyDoing = {
         "Solving DSA & participating in coding contests",
