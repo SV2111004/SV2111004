@@ -86,8 +86,7 @@ public:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SV2111004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SV2111004&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SV2111004&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
